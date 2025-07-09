@@ -1,0 +1,62 @@
+# Core Framework
+Flask==3.0.2
+flask-cors==4.0.0
+flask-jwt-extended==4.6.0
+
+# Database
+SQLAlchemy==2.0.27
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# Web Scraping
+beautifulsoup4==4.12.3
+requests==2.31.0
+selenium==4.17.2
+lxml==5.1.0
+urllib3==2.2.0
+
+# Instagram API
+instagrapi==2.0.0
+
+# OCR
+pytesseract==0.3.10
+Pillow==10.2.0
+opencv-python==4.9.0.80
+pdf2image==1.17.0
+
+# NLP
+spacy==3.7.2
+transformers==4.37.2
+torch==2.2.0
+nltk==3.8.1
+
+# Utilities
+python-dotenv==1.0.1
+pandas==2.2.0
+numpy==1.26.3
+redis==5.0.1
+celery==5.3.4
+
+# Development
+pytest==8.0.0
+black==24.1.1
+ipython==8.20.0
+
+# Logging
+colorlog==6.8.2
+
+# Chrome Driver Management
+webdriver-manager==4.0.1
+
+# Rate Limiting
+ratelimit==2.2.1
+
+# Optional: NLP (for future use)
+# spacy==3.7.2
+# transformers==4.37.2
+# torch==2.2.0
+
+# Optional: Database (for future use)
+# psycopg2-binary==2.9.9
+# sqlalchemy==2.0.25
+

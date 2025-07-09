@@ -1,0 +1,122 @@
+{
+    "wanderon.in": {
+        "username": "wanderon.in",
+        "url": "https://www.instagram.com/wanderon.in/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.wanderon.in",
+        "bio": "India's growing travel community for group tours",
+        "followers": "500K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Adventure/Group Tours",
+        "source": "curated_list"
+    },
+    "tripzygo": {
+        "username": "tripzygo",
+        "url": "https://www.instagram.com/tripzygo/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.tripzygo.in",
+        "bio": "Customized holiday packages",
+        "followers": "150K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Tour Packages",
+        "source": "curated_list"
+    },
+    "thrillophilia": {
+        "username": "thrillophilia",
+        "url": "https://www.instagram.com/thrillophilia/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.thrillophilia.com",
+        "bio": "Book tours, activities and experiences",
+        "followers": "300K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Adventure/Activities",
+        "source": "curated_list"
+    },
+    "makemytrip": {
+        "username": "makemytrip",
+        "url": "https://www.instagram.com/makemytrip/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.makemytrip.com",
+        "bio": "India's leading online travel company",
+        "followers": "250K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "OTA",
+        "source": "curated_list"
+    },
+    "yatra": {
+        "username": "yatra",
+        "url": "https://www.instagram.com/yatra/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.yatra.com",
+        "bio": "Online travel agency",
+        "followers": "180K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "OTA",
+        "source": "curated_list"
+    },
+    "goibibo": {
+        "username": "goibibo",
+        "url": "https://www.instagram.com/goibibo/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.goibibo.com",
+        "bio": "Online travel booking",
+        "followers": "200K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "OTA",
+        "source": "curated_list"
+    },
+    "traveltriangle": {
+        "username": "traveltriangle",
+        "url": "https://www.instagram.com/traveltriangle/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://traveltriangle.com",
+        "bio": "Travel packages marketplace",
+        "followers": "120K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Marketplace",
+        "source": "curated_list"
+    },
+    "zostel": {
+        "username": "zostel",
+        "url": "https://www.instagram.com/zostel/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.zostel.com",
+        "bio": "Backpacker hostels and trips",
+        "followers": "150K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Hostels/Backpacking",
+        "source": "curated_list"
+    },
+    "veenaworld": {
+        "username": "veenaworld",
+        "url": "https://www.instagram.com/veenaworld/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.veenaworld.com",
+        "bio": "International and domestic tours",
+        "followers": "100K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Tour Operator",
+        "source": "curated_list"
+    },
+    "thomascook": {
+        "username": "thomascook",
+        "url": "https://www.instagram.com/thomascook/",
+        "scraped_at": "2025-07-09 07:48:00",
+        "website": "https://www.thomascook.in",
+        "bio": "Legacy travel company",
+        "followers": "80K",
+        "following": "N/A",
+        "posts_count": "N/A",
+        "category": "Tour Operator",
+        "source": "curated_list"
+    }
+}
